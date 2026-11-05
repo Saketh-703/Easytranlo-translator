@@ -1,0 +1,6 @@
+Timestamp,User,Mode,Source_Lang,Target_Lang,Input_Text,Translated_Text
+2026-11-04 11:08:38,saketh,Text to Text,English,Hindi,hello,नमस्ते
+2026-11-04 11:22:54,guest_003c1c,Speech to Speech,English,Hindi,hello 123,नमस्ते 123
+2026-11-04 12:20:25,guest_9744af,Speech to Speech,English,Telugu,hello hello how are you,హలో హలో మీరు ఎలా ఉన్నారు
+2026-11-04 12:21:40,guest_9744af,Speech to Speech,English,Spanish,hello hello how are you,hello=hola como esta?
+2026-11-04 12:22:30,guest_9744af,Speech to Speech,English,Japanese,hello hello how are you,こんにちはこんにちはお元気ですか
